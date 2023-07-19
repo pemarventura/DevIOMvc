@@ -1,11 +1,19 @@
 {
   "Version": 1,
-  "Hash": "iNZRNBfBqOCNzTz2nNIoUwlSytvOBw+4cDrc9+7MpL4=",
+  "Hash": "OnpYubSiCZTWQMhMfTEwwku1K5w1bJLjyOb0n5ruxZc=",
   "Source": "DevIO.UI.Sites",
   "BasePath": "_content/DevIO.UI.Sites",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
-  "DiscoveryPatterns": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "DevIO.UI.Sites\\wwwroot",
+      "Source": "DevIO.UI.Sites",
+      "ContentRoot": "C:\\Users\\paulo.emilio\\Desktop\\Nova pasta\\AppModelo\\DevIO.UI.Sites\\wwwroot\\",
+      "BasePath": "_content/DevIO.UI.Sites",
+      "Pattern": "**"
+    }
+  ],
   "Assets": []
 }

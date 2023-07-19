@@ -26,3 +26,6 @@ C:\Users\paulo.emilio\Desktop\Nova pasta\AppModelo\DevIO.UI.Sites\obj\Debug\net7
 C:\Users\paulo.emilio\Desktop\Nova pasta\AppModelo\DevIO.UI.Sites\obj\Debug\net7.0\ref\DevIO.UI.Sites.dll
 C:\Users\paulo.emilio\Desktop\Nova pasta\AppModelo\DevIO.UI.Sites\obj\Debug\net7.0\DevIO.UI.Sites.RazorAssemblyInfo.cache
 C:\Users\paulo.emilio\Desktop\Nova pasta\AppModelo\DevIO.UI.Sites\obj\Debug\net7.0\DevIO.UI.Sites.RazorAssemblyInfo.cs
+C:\Users\paulo.emilio\Desktop\Nova pasta\AppModelo\DevIO.UI.Sites\bin\Debug\net7.0\bundleconfig.json
+C:\Users\paulo.emilio\Desktop\Nova pasta\AppModelo\DevIO.UI.Sites\bin\Debug\net7.0\libman.json
+C:\Users\paulo.emilio\Desktop\Nova pasta\AppModelo\DevIO.UI.Sites\bin\Debug\net7.0\DevIO.UI.Sites.staticwebassets.runtime.json
